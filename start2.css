@@ -1,6 +1,6 @@
 body {
     font-size: 20px;
-    background-color:black;
+    background-color:skyblue;
     color:azure;
 }
 
@@ -12,7 +12,7 @@ h1 {
     margin: 0 0 0 0 ;
     padding: 0 0 0 0;
     position: absolute;
-    left: 120px;
+    left: 600px;
 }
 
 
@@ -32,16 +32,17 @@ img {
 
 
 #scene {
-    background: url(city.png) no-repeat;
-    height:600px;
+    background: url(city1.png) center center no-repeat fixed;
+    height:2000px;
     
 }
 
 
 #situation {
     position:absolute;
-    margin-top: 300px;
-    margin-left: 140px;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
 }
 
 
