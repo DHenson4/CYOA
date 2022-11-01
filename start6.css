@@ -1,0 +1,46 @@
+body {
+    font-size: 20px;
+    background-color: burlywood;
+    color:azure;
+}
+
+
+h1 {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 50px;
+   background-color: rgba(0, 0, 0, .5);
+    position:absolute;
+    top: 4%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+}
+
+
+
+a {
+    color:azure ;
+    text-decoration: none ;
+   
+}
+
+
+img {
+    padding: 0px;
+    margin: 0px;
+
+}
+
+
+#scene {
+    background: url(shop.jpeg) center center no-repeat fixed;
+    height:600px;
+    
+}
+
+
+#situation {
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+}
