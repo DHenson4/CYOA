@@ -1,6 +1,6 @@
 body {
     font-size: 20px;
-    background-color:black;
+    background-color: burlywood;
     color:azure;
 }
 
@@ -10,7 +10,7 @@ h1 {
     font-size: 50px;
    background-color: rgba(0, 0, 0, .5);
     position:absolute;
-    top: 26%;
+    top: 4%;
     left: 50%;
     transform: translateX(-50%) translateY(-50%);
 }
@@ -32,7 +32,7 @@ img {
 
 
 #scene {
-    background: url(city.png) center center no-repeat fixed;
+    background: url(shop.jpeg) center center no-repeat fixed;
     height:600px;
     
 }
