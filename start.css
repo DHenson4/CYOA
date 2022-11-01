@@ -1,0 +1,48 @@
+
+
+body {
+    font-size: 20px;
+    background-color:black;
+    color:azure;
+}
+
+
+h1 {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 50px;
+   background-color: rgba(0, 0, 0, .5);
+    margin: 0 0 0 0 ;
+    padding: 0 0 0 0;
+    position: absolute;
+    left: 120px;
+}
+
+
+
+a {
+    color:azure ;
+    text-decoration: none ;
+   
+}
+
+
+img {
+    padding: 0px;
+    margin: 0px;
+
+}
+
+
+#scene {
+    background: url(city.png) no-repeat;
+    height:600px;
+    background: url(castle.jpg) no repeat;
+}
+
+
+#situation {
+    position:absolute;
+    margin-top: 300px;
+    margin-left: 220px;
+    
+}
