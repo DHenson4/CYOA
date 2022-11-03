@@ -15,7 +15,14 @@ h1 {
     transform: translateX(-50%) translateY(-50%);
 }
 
-
+#situation1 {
+    position:absolute;
+    top: 90%;
+    left: 90%;
+    transform: translateX(-50%) translateY(-50%);
+    color: white;
+    font-size:50px
+  }
 
 a {
     color: white ;
@@ -31,14 +38,7 @@ img {
 }
 
 
-#situation1 {
-    position:absolute;
-    top: 90%;
-    left: 90%;
-    transform: translateX(-50%) translateY(-50%);
-    color: white;
-    font-size:50px
-  }
+
 
 
 #situation {
@@ -173,4 +173,3 @@ body {
       transform: translate3d(0, -25%, 0);
     }
   }
-  

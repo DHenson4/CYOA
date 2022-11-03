@@ -10,7 +10,7 @@ h1 {
     font-size: 50px;
    background-color: rgba(0, 0, 0, .5);
     position:absolute;
-    top: 21%;
+    top: 28%;
     left: 50%;
     transform: translateX(-50%) translateY(-50%);
 }
@@ -48,7 +48,7 @@ img {
 
 #situation1 {
     position:absolute;
-    top: 52%;
-    left: 55%;
+    top: 53%;
+    left: 53%;
     transform: translateX(-50%) translateY(-50%);
 }
