@@ -1,6 +1,6 @@
 body {
     font-size: 20px;
-    background-color: burlywood;
+    background-color: rgb(104, 100, 100);
     color:azure;
 }
 
@@ -10,7 +10,7 @@ h1 {
     font-size: 50px;
    background-color: rgba(0, 0, 0, .5);
     position:absolute;
-    top: 4%;
+    top: 21%;
     left: 50%;
     transform: translateX(-50%) translateY(-50%);
 }
@@ -24,23 +24,31 @@ a {
 }
 
 
-img {
-    padding: 0px;
-    margin: 0px;
 
+img {
+    position: absolute;
+    top: 250px;
+    left: 90px;
 }
 
 
 #scene {
-    background: url(shop.jpeg) center center no-repeat fixed;
-    height:600px;
+    background: url(man.jpeg) center center no-repeat fixed;
+    height:1000px;
     
 }
 
 
 #situation {
     position:absolute;
-    top: 50%;
+    top: 70%;
     left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+}
+
+#situation1 {
+    position:absolute;
+    top: 52%;
+    left: 55%;
     transform: translateX(-50%) translateY(-50%);
 }
